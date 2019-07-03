@@ -11,5 +11,4 @@ class BigDog : Dog{
        super.say()
         Log.d("kotlintest", "大きな犬です")
     }
-
 }
