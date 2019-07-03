@@ -1,6 +1,7 @@
 package jp.techacademy.takayuki.ochiai.kotlinlog
 
 abstract class Animal {
+
     var name: String
     var age: Int
 
